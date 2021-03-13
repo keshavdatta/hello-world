@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <math.h>
 
+#include "hello.h"
 
 void main (void)
 {
